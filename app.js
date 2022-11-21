@@ -18,7 +18,7 @@ app.use(compress());
 app.use(cookieParser());
 
 app.post("/rooms", async(req, res) => {
-    const 
+    
 })
 
 app.listen(port, () =>
